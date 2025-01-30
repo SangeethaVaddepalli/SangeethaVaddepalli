@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://sangeethavaddepalli.github.io/New_Portfolio/](https://sangeethavaddepalli.github.io/New_Portfolio/)
 
-- 💬 Ask me about **react, node**
-
 - 📫 How to reach me **sangeethavaddepalli17@gmail.com**
 
 - ⚡ Fun fact **I'm Intelligent(❁´◡`❁)🤣😂**
